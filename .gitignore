@@ -46,7 +46,11 @@ Network Trash Folder
 Temporary Items
 .apdisk
 
-/Intermediate/
-/Saved/
-/DerivedDataCache/
-/Binaries/
+**/Intermediate/
+**/Saved/
+**/DerivedDataCache/
+**/Binaries/
+**/StarterContent/
+*.suo
+*.sdf
+*.sln
